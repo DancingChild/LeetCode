@@ -25,8 +25,8 @@ class Solution:
 
 
     def test(self):
-        l = [3, 2]
-        r = self.twoSum(l, 5)
+        l = [3, 9,4,2]
+        r = self.twoSum(l, 7)
         print(r)
 
 c = Solution()
